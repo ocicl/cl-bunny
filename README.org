@@ -1,0 +1,9 @@
+* cl-bunny
+
+AMQP client library for Common Lisp, compatible with RabbitMQ.
+
+|---------+--------------------------------------------------------|
+| source  | git:https://github.com/cl-rabbit/cl-bunny.git          |
+| commit  | 6da7fe1                                                |
+| systems | cl-bunny                                               |
+|---------+--------------------------------------------------------|
